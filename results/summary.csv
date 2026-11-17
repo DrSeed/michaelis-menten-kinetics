@@ -1,0 +1,4 @@
+method,true_km,median_km,bias_pct,rmse,iqr
+Lineweaver-Burk,2.5,2.117,34.0,130.239,2.149
+Eadie-Hofstee,2.5,2.277,-9.4,0.499,0.595
+Nonlinear least squares,2.5,2.478,-0.2,0.266,0.36
